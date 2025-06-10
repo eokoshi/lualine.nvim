@@ -4,11 +4,11 @@ M.processing = false
 M.spinner_index = 1
 
 local spinner_symbols = {
-  '󰍡 ⠋',
-  '󰍡 ⠙',
-  '󰍡 ⠹',
-  '󰍡 ⠸',
-  '󰍡 ⠼',
+  '󰍥 ⠋',
+  '󰍥 ⠙',
+  '󰍥 ⠹',
+  '󰍥 ⠸',
+  '󰍥 ⠼',
   '󰍥 ⠴',
   '󰍥 ⠦',
   '󰍥 ⠧',
